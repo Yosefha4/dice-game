@@ -1,4 +1,4 @@
-Link to the WebSite : https://venerable-dango-641440.netlify.app/
+Link to the WebSite : https://nice-dice-game.netlify.app/
 
 # Getting Started with Create React App
 
